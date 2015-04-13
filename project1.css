@@ -1,43 +1,78 @@
 body {
-	font-family: verdana, sans-serif; 
-	
 
+    font-family: verdana, sans-serif;
 
-/* outline: 1px solid red !important; */
 }
-	.text-title {
-         color: #666; margin-top: 50px; font-family: verdana;  margin-bottom: px; font-size: 48px; 
-	}
-     .text-subtitle {color: #f07c17;
-                      font-size:  24px; font-weight: bold;   margin-bottom: 25px;   }
-     .mug { max-width: 350px; margin-bottom: 30px; margin-top: 15px}
-     .app {display: flex;}
-     .nopadding{ padding: 0 !important; margin: 0 !important}
-     .main-text {font-family: verdana, sans-serif;}
-     .main-txt {color: #666; font-size: 16px; line-height: 32px; }
-     .list {margin-top: 50px; color:#666; }
- .bord {border:1px solid #000; border-color: #ccc; max-width: 360px}
- 	.pad {padding-bottom: 25px}
- 	.text {padding-left: 40px}
- 	.pad2{padding-left: 25px}
- 	.pad3{padding-right: 35px}
-    .bordsubtitle {color: #f07c17; font-size: 24px; padding-top: 20px; padding-bottom: 20px; 
-    	text-align: left; font-weight: bold;
-    }
-li {text-indent: 30px; line-height: 25px}
 
+.text-title {
+
+    color: #666;
+    margin-top: 49px;
+    font-size: 48px;
+    padding-left: 76px;
+
+}
+
+.text-subtitle {
+
+    color: #f07c17;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 25px;
+ }
+
+ .mug {
+
+     max-width: 370px;
+     margin-bottom: 35px;
+     margin-top: 15px;
+
+ }
+
+p {
+
+     color: #666;
+     font-size: 16px;
+     line-height: 32px;
+}
+
+ .bord {
+
+     border: 1px solid #000;
+     border-color: #ccc;
+     max-width: 370px;
+     padding: 0px 0px 35px;
+
+}
+
+ul {
+
+    list-style-type: disc;
+}
+
+li {
+    font: verdana,  sans-serif;
+    color: #666;
+    line-height: 30px;
+    font-size: 14px;
+    text-indent: 30px;
+}
+
+.mainfeatures {
+
+    color: #f07c17;
+    padding: 7px 0px 25px 32px;
+    font-size: 26px;
+
+}
 
  .mockup-overlay {
-	top: 0;
-	position: absolute;
-	z-index: -1;
-	opacity: 0.4;
-	
+    top: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
+
 }
 
 
- 	}
- 	
-       } 	
- 	}
- 	}
+
